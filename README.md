@@ -1,5 +1,5 @@
 # Hi there 👋. My name is Egor!
-
+<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend-developer+Java;Использую+framework+Spring+Boot)](https://git.io/typing-svg)
 
 ---
@@ -72,3 +72,5 @@
     </td>
   </tr>
 </table>
+<br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
