@@ -1,4 +1,4 @@
-### Hi there 👋. My name is Egor!
+# Hi there 👋. My name is Egor!
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+developer+Java;Использую+framework+Spring+Boot)](https://git.io/typing-svg)
 <!--
 **YaEtoTui/YaEtoTui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
