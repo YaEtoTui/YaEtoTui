@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Добро+Пожаловать+в+мой+профиль!;Это+моё+портфолио)](https://git.io/typing-svg)
+### Hi there 👋. My name is Egor!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+developer+Java;Использую+framework+Spring+Boot)](https://git.io/typing-svg)
 <!--
 **YaEtoTui/YaEtoTui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
