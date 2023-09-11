@@ -20,6 +20,22 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
   </a>
   <a href="https://discord.com/users/yaetotui_987" target="_blank">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" />
+  </a> 
+</div>
+
+---
+
+### 💻 Стек Технологии:
+
+<div>  
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+  </a>  
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />
+  </a> 
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
   </a> 
 </div>
