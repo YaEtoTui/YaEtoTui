@@ -68,10 +68,7 @@
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=YaEtoTui&theme=vision-friendly-dark" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YaEtoTui&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YaEtoTui&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
-<br>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yaetotui)
