@@ -19,4 +19,7 @@
   <a href="https://vk.com/sazhinklass" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
   </a>
+  <a href="https://discord.com/users/yaetotui_987" target="_blank">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a> 
 </div>
