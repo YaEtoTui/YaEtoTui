@@ -55,7 +55,8 @@
   </a>  
   <a href="https://www.android.com/intl/en_in/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />
-  </a>  
+  </a> 
+  <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
 </div>  
 
 ---
