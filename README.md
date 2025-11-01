@@ -47,4 +47,4 @@
 
 ### ⚙️ GitHub статистика:
 
-<img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YaEtoTui&layout=compact&theme=vision-friendly-dark" />
+<img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YaEtoTui&layout=compact&theme=vision-friendly-dark" />
